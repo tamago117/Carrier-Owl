@@ -10,8 +10,6 @@ keywords:
         soft robot: 5
         swarm : 4
         autonomous robot: 4
-        legged robot: 3
-        robot: 3
 
 # 通知の閾値
 score_threshold: 0
