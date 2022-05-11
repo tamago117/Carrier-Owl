@@ -1,11 +1,17 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.HC OR cat:cs.RO'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        Model Predictive Control: 5
+        path planning: 5
+        obstacle: 5
+        haptics: 4
+        soft robot: 5
+        swarm : 4
+        autonomous robot: 4
+        legged robot: 3
+        robot: 3
 
 # 通知の閾値
 score_threshold: 0
